@@ -50,6 +50,14 @@ I enjoy tackling complex problems, implementing scalable architectures, and cont
 🔹 [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Contributions to one of the most popular developer learning guides for React Native.  
 
 ---
+## 📊 Leetcode Preview  
+
+I enjoy solving algorithmic challenges to sharpen my problem-solving skills. Here are my current Leetcode stats:
+
+![Abdullah's Leetcode Stats](https://leetcard.jacoblin.cool/abdllhbayram?theme=unicort&fontAlmarai)  
+
+
+---
 
 ## 🔗 Connect with Me  
 
