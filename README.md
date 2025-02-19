@@ -54,7 +54,7 @@ I enjoy tackling complex problems, implementing scalable architectures, and cont
 
 I enjoy solving algorithmic challenges to sharpen my problem-solving skills. Here are my current Leetcode stats:
 
-![Abdullah's Leetcode Stats](https://leetcard.jacoblin.cool/abdllhbayram?theme=unicort&fontAlmarai)  
+![Abdullah's Leetcode Stats](https://leetcard.jacoblin.cool/a_bayram?theme=unicort&fontAlmarai)  
 
 
 ---
