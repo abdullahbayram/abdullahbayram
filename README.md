@@ -12,7 +12,7 @@
 <h1 align="center">Hi there, I'm Abdullah Bayram! 👋</h1>
 
 🔹 **Software Engineer | Mobile Engineering**
-🔹 **TypeScript | JavaScript | React | React Native | Mobile Architecture**
+🔹 **TypeScript | JavaScript | Phyton | React | React Native | Mobile Architecture**
 🔹 **CI/CD | DevOps | AI-assisted Software Development**
 🔹 **Passionate about scalable architectures, automation, and building reliable software**
 
@@ -23,13 +23,6 @@
 I am a **software engineer** with a strong foundation in Typescript, Javascript and **React (Native)**.  
 I have **16+ contributed mobile projects with React Native.**  
 I enjoy tackling complex problems and implementing scalable architectures.  
-
----
-
-## 📊 GitHub Statistics  
-
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahbayram&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahbayram&layout=compact&theme=radical)  
 
 ---
 
@@ -64,8 +57,7 @@ I enjoy solving algorithmic challenges to sharpen my problem-solving skills. Her
 
 🌍 [LinkedIn](https://www.linkedin.com/in/bayramabdullah/)  
 📧 [Email](mailto:info@abayram.dev)  
-📓 [Pluralsight](https://app.pluralsight.com/profile/abdullahbayram)  
-🎓 [Coursera](https://www.coursera.org/learner/abdullah-bayram)  
+📓 [Pluralsight](https://app.pluralsight.com/profile/abdullahbayram)   
 
 ---
 
