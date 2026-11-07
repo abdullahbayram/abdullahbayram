@@ -11,17 +11,18 @@
 </p>
 <h1 align="center">Hi there, I'm Abdullah Bayram! 👋</h1>
 
-🔹 **Software Engineer**  
-🔹 **Javascript | React (Native) | Mobile Solutions | AI & DevOps Enthusiast**  
-🔹 **Passionate about scalability, automation, and delivering high-quality software**  
+🔹 **Software Engineer | Mobile Engineering**
+🔹 **TypeScript | JavaScript | React | React Native | Mobile Architecture**
+🔹 **CI/CD | DevOps | AI-assisted Software Development**
+🔹 **Passionate about scalable architectures, automation, and building reliable software**
 
 ---
 
 ## 🚀 About Me  
 
-I am a **software engineer** with a strong foundation in Javascript and **React (Native)**.  
-I have **15+ completed mobile projects with React Native.**  
-I enjoy tackling complex problems, implementing scalable architectures, and contributing to open-source projects.  
+I am a **software engineer** with a strong foundation in Typescript, Javascript and **React (Native)**.  
+I have **16+ contributed mobile projects with React Native.**  
+I enjoy tackling complex problems and implementing scalable architectures.  
 
 ---
 
